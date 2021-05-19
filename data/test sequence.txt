@@ -1,0 +1,8 @@
+Read Temperatures >> 1,10
+Set Temperature Units >> 1,F
+Read Temperatures >> 1,10
+Read Temperatures >> 1,10
+Set Temperature Rate >> 1,30
+Read Temperatures >> 2,20
+Read Temperatures >> 3,30
+Read Temperatures >> 4,40
